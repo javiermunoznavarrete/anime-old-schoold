@@ -178,14 +178,19 @@ span i {
 .blueimp-gallery-controls > .description {
   display: block;
 }
-
+.container-clock{
+	width: 100%;
+}
 .clock {
 	color: white;
 	display: inline-block;
 	font-size: 6vw;
-	padding-right: 5vw;
-	padding-left: 5vw;
-
+	padding-right: 3vw;
+	padding-left: 3vw;
+	text-align: center;
+}
+.section-clok {
+	padding-bottom: 4em;
 }
 .map {
 	width: 33em;
